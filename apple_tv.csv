@@ -1,0 +1,6 @@
+product,source,brand,sales_price,mrp,discount_percent,rating,num_ratings,num_reviews
+Apple iPhone 11 Pro Max Midnight Green 64GB,Flipkart,Apple,129900,149900,13.35,4.8,1523,210
+Apple iPhone 11,Flipkart,Apple,40900,149900,72.74,4.6,985,110
+Apple iPhone SE,Flipkart,Apple,20999,29999,30.0,4.2,450,40
+Apple iPhone 12 Pro,Flipkart,Apple,99999,119999,16.67,4.4,650,80
+Apple iPhone XR,Flipkart,Apple,34999,49999,30.0,4.1,300,25
